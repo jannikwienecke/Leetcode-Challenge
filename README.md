@@ -9,4 +9,4 @@ A problem will appear here at midnight PDT each day, and you'll have 24 hours to
 it and submit it here on the Explore Card.
 
 Documention can be found here:
-https://www.notion.so/My-life-in-data-bc1bbdb35833491998d13d7ad3515c41
+https://www.notion.so/c3fd69f5720d4c65a22a8ccbb035ab91?v=4489c097a1b641e883fc919045dca30f
