@@ -15,4 +15,10 @@ input_list=  [-2,1,-3,4,-1,2,1,-5,4]
 result_3 = solutions.a3_kadene_algorithmus.max_subarray(input_list)
 print(f"max_subarray: Input: {input_list} - Result: {result_3}")
 
+# CHALLENGE #4 ---------------------------------------
+input_list = [0,1,0,3,12]
+result = solutions.a4.move_zeros(input_list)
+print(f"move_zeros: Input: {input_list} - Result: {result}")
+
+
 
