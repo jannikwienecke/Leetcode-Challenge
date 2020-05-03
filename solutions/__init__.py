@@ -5,4 +5,5 @@ from .a3_b import *
 from .a3_kadene_algorithmus import *
 from .a4 import *
 from .a5 import *
+from .a6 import *
 

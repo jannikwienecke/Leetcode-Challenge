@@ -28,5 +28,13 @@ print(f"Stock Market: Input: {lst} - Result: {result}")
 result = solutions.a5.stock_advanced(lst)
 print(f"Stock Market - Advanced: Input: {lst} - Result: {result}")
 
+# CHALLENGE #6 ---------------------------------------
+lst = ["eat", "tea", "tan", "ate", "nat", "bat"]
+result = solutions.a6.anagramms(lst)
+print(f"anagramms: Input: {lst} - Result: {result}")
+
+
+
+
 
 
