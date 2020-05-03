@@ -20,5 +20,13 @@ input_list = [0,1,0,3,12]
 result = solutions.a4.move_zeros(input_list)
 print(f"move_zeros: Input: {input_list} - Result: {result}")
 
+# CHALLENGE #5 ---------------------------------------
+lst = [7,1,5,3,6,4]
+result = solutions.a5.stock_standard(lst)
+print(f"Stock Market: Input: {lst} - Result: {result}")
+
+result = solutions.a5.stock_advanced(lst)
+print(f"Stock Market - Advanced: Input: {lst} - Result: {result}")
+
 
 
